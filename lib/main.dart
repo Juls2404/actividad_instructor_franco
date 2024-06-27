@@ -1,5 +1,6 @@
+import 'package:actividad_instructor_franco/Actividad%205/movimiento.dart';
 import 'package:flutter/material.dart';
-import 'Actividad 3/home.dart';
+
 
 void main() {
   runApp(MyApp());
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
       ),
-      home: HomePage(),
+      home: ImageSlid(),
     );
   }
 }

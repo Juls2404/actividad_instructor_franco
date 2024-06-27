@@ -27,7 +27,7 @@ class RegistroPage extends StatelessWidget {
             SizedBox(height: 20.0),
             ElevatedButton(
               onPressed: () {
-                // Aquí puedes implementar la lógica para enviar el formulario de registro
+                
               },
               child: Text('Registrar'),
             ),
